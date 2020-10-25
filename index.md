@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### (Avanza) Placera net-assessment bot
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
