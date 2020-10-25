@@ -2,7 +2,7 @@
 
 ---
 
-### Placera (Avanza) Net-Sentiment bot
+### Placera (Avanza) Net-Sentiment Bot
 
 [Dictionary Assessment Gui](/sample_page)
 <img src="images/dict-assesser-screenshot.png?raw=true"/>
