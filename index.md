@@ -2,10 +2,10 @@
 
 ---
 
-### (Avanza) Placera net-assessment bot
+### Placera (Avanza) Net-Sentiment bot
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dictionary Assessment Gui](/sample_page)
+<img src="images/dict-assesser-screenshot.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
